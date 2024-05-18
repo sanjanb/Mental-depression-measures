@@ -142,9 +142,8 @@ We would like to thank our project team members and contributors for their dedic
 ## Contact
 
 For any questions or suggestions, please reach out to us at:
-- **Email:** support@aspirise.com
-- **LinkedIn:** [Aspirise LinkedIn](https://www.linkedin.com/company/aspirise)
+- **Email:** sanjanacharaya1234@gmail.com
+- **LinkedIn:** [Author LinkedIn]([https://www.linkedin.com/company/aspirise](https://www.linkedin.com/in/sanjan-acharya-9278a4250/))
 
 ---
 
-This README format provides a clear and structured overview of your project, making it easy for others to understand, install, use, and contribute to Aspirise.

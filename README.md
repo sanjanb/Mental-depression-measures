@@ -67,32 +67,12 @@ To install and run Aspirise locally, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/aspirise.git
+   git clone https://github.com/shamblessss/Mental-depression-Measures.git
    ```
 
 2. Navigate to the project directory:
    ```sh
    cd aspirise
-   ```
-
-3. Create a virtual environment:
-   ```sh
-   python -m venv venv
-   ```
-
-4. Activate the virtual environment:
-   - On Windows:
-     ```sh
-     venv\Scripts\activate
-     ```
-   - On macOS/Linux:
-     ```sh
-     source venv/bin/activate
-     ```
-
-5. Install the required dependencies:
-   ```sh
-   pip install -r requirements.txt
    ```
 
 ## Usage
@@ -143,7 +123,7 @@ We would like to thank our project team members and contributors for their dedic
 
 For any questions or suggestions, please reach out to us at:
 - **Email:** sanjanacharaya1234@gmail.com
-- **LinkedIn:** [Author LinkedIn]([https://www.linkedin.com/company/aspirise](https://www.linkedin.com/in/sanjan-acharya-9278a4250/))
+- **LinkedIn:** [Author LinkedIn](https://www.linkedin.com/in/sanjan-acharya-9278a4250/)
 
 ---
 
